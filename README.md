@@ -50,4 +50,3 @@ The dataset was loaded and examined using functions like `head()`, `tail()`, `sh
 
 ---
 
-I've used the Markdown format you requested. Would you like to check the correlation heatmap image that was generated in your analysis for any interesting findings?
